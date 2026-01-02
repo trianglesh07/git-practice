@@ -8,6 +8,3 @@ print("hello world, good bye, See you soon!")
 print("test2, Hi!!")
 
 print("Hello jin")
-print("task2")
-print("task8")
-print("task9")
