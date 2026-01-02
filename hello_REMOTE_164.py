@@ -9,5 +9,3 @@ print("test2, Hi!!")
 
 print("Hello jin")
 print("task2")
-print("task8")
-print("task9")
